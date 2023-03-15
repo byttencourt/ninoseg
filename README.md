@@ -36,7 +36,7 @@
 			<div id="main">
 
 				<header class="major container medium">
-					<img src="images/ninoseg.png" alt="">
+					<!--<img src="images/ninoseg.png" alt="">-->
 					<h2>+ 15 Anos de experiência
 					<br />
 					parceria com as melhores marcas
