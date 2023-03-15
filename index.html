@@ -9,7 +9,7 @@
 		<meta name ="title" content ="NINOseg"/>
 		<meta name ="description" content ="Sua segurança em boas mãos. Com mais de 15 Anos de experiência somos especializados em Sistemas de Alarmes, câmeras de Segurança, automação de portões."/>
 		<meta name ="copyright" content ="Claudio A. Bittencourt"/>
-		<meta name ="keywords" content ="sistemas de segurança, alarmes, câmeras, cftv, portões eletrônicos, automação, websites, intelbras, hikvision, ppa, rossi, controles "/>
+		<meta name ="keywords" content ="sistemas de segurança, alarmes, câmeras, cftv, portões eletrônicos, automação, websites, intelbras, hikvision, ppa"/>
 		<meta property ="og:type" content ="website"/>
 		<meta property ="og:url" content ="ninoseg.com.br"/>
 		<meta property ="og:title" content ="NINOseg"/>
